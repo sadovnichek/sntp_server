@@ -11,4 +11,4 @@
 Request from IP: 127.0.0.1	Port: 61862
 ```
 * В клиенте отображается offset (смещение)
-<img style="display: block; margin: auto; width: 400px" src="./example.png" />
+<img style="display: block; margin: auto; width: 800px" src="./example.png" />
